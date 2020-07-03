@@ -37,6 +37,8 @@
 - Cross-domain Recommendation Without Sharing User-relevant Data [WWW 2019] [[__PDF__]](https://dl.acm.org/doi/abs/10.1145/3308558.3313538)
 - DDTCDR: Deep Dual Transfer Cross Domain Recommendation [WSDM 2020] [[__PDF__]](https://arxiv.org/abs/1910.05189) [[__code__]](https://github.com/lpworld/DDTCDR)
 - CATN Cross-Domain Recommendation for Cold-Start Users via Aspect Transfer Network [SIGIR 2020] [[__PDF__]](https://arxiv.org/abs/2005.10549) [[__code__]](https://github.com/AkiraZC/CATN)
+- Cross Domain Recommendation Systems [Recsys 2014] [[__PDF__]](https://recsys.acm.org/wp-content/uploads/2014/10/recsys2014-tutorial-cross_domain.pdf)
+- Cross-domain recommender systems: A survey of the State of the Art [CERI 2012] [[__PDF__]](https://pdfs.semanticscholar.org/a980/14f32fd66a55bd2c851694718a656eed35a4.pdf?_ga=2.191859498.1424641857.1593768932-1679288485.1591235636)
 
 ## Fashion Recommendation
 
