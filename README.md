@@ -19,7 +19,11 @@
 - A Survey on Session-based Recommender Systems [Arxiv 2019] [[__PDF__]](https://arxiv.org/abs/1902.04864)
 - Empirical Analysis of Session-Based Recommendation Algorithms [Arxiv 2019] [[__PDF__]](https://arxiv.org/pdf/1910.12781)
 - Deep Learning for Sequential Recommendation: Algorithms, Influential Factors, and Evaluations [Arxiv 2019] [[__PDF__]](https://arxiv.org/abs/1905.01997)
+- $S^3$-Rec: Self-Supervised Learning for Sequential Recommendation with Mutual Information Maximization [CIKM 2020] [[__PDF__]](https://arxiv.org/abs/2008.07873) [[__code__]](https://github.com/aHuiWang/CIKM2020-S3Rec)
 - Sequential Recommendation with Self-Attentive Multi-Adversarial Network [SIGIR 2020] [[__PDF__]](https://arxiv.org/abs/2005.10602)
+- KERL: A Knowledge-Guided Reinforcement Learning Model for Sequential Recommendation [SIGIR 2020] [[__PDF__]](https://github.com/fanyubupt/KERL) [[__code__]](https://github.com/fanyubupt/KERL)
+- Next-item Recommendation with Sequential Hypergraphs [SIGIR 2020] [[__PDF__]](http://people.tamu.edu/~jwang713/pubs/HyperRec-sigir2020.pdf) [[__code__]](https://github.com/wangjlgz/HyperRec)
+- Self-Supervised Reinforcement Learning for Recommender Systems [SIGIR 2020] [[__PDF__]](https://arxiv.org/abs/2006.05779)
 - Future Data Helps Training: Modeling Future Contexts for Session-based Recommendation [WWW 2020] [[__PDF__]](https://arxiv.org/abs/1906.04473) [[__code__]](https://github.com/fajieyuan/grec)
 
 ## Cross-domain Recommendation
@@ -37,8 +41,7 @@
 - Cross-domain Recommendation Without Sharing User-relevant Data [WWW 2019] [[__PDF__]](https://dl.acm.org/doi/abs/10.1145/3308558.3313538)
 - DDTCDR: Deep Dual Transfer Cross Domain Recommendation [WSDM 2020] [[__PDF__]](https://arxiv.org/abs/1910.05189) [[__code__]](https://github.com/lpworld/DDTCDR)
 - CATN Cross-Domain Recommendation for Cold-Start Users via Aspect Transfer Network [SIGIR 2020] [[__PDF__]](https://arxiv.org/abs/2005.10549) [[__code__]](https://github.com/AkiraZC/CATN)
-- Cross Domain Recommendation Systems [Recsys 2014] [[__PDF__]](https://recsys.acm.org/wp-content/uploads/2014/10/recsys2014-tutorial-cross_domain.pdf)
-- Cross-domain recommender systems: A survey of the State of the Art [CERI 2012] [[__PDF__]](https://pdfs.semanticscholar.org/a980/14f32fd66a55bd2c851694718a656eed35a4.pdf?_ga=2.191859498.1424641857.1593768932-1679288485.1591235636)
+- Transfer Learning via Contextual Invariants for One-to-Many Cross-Domain Recommendation [SIGIR 2020] [[__PDF__]](https://arxiv.org/abs/2005.10473)
 
 ## Fashion Recommendation
 
@@ -55,10 +58,10 @@
 - Prototype-guided Attribute-wise Interpretable Scheme for Clothing Matching [SIGIR 2019] [[__PDF__]](https://dl.acm.org/doi/abs/10.1145/3331184.3331245)
 - Dressing as a Whole Outfit Compatibility Learning Based on Node-wise Graph Neural Networks [WWW 2019] [[__PDF__]](https://arxiv.org/abs/1902.08009) [[__code__]](https://github.com/CRIPAC-DIG/NGNN)
 - Improving Outfit Recommendation with Co-supervision of Fashion Generation [WWW 2019] [[__PDF__]](https://arxiv.org/abs/1908.09104) [[__code__]](https://bitbucket.org/Jay_Ren/www2019_fashionrecommendation_yujie/src/master/farm/)
-- Explainable Outfit Recommendation with Joint Outfit Matching and Comment Generation [TKDE 2019] [[__PDF__]](https://arxiv.org/abs/1806.08977) [[__code__]](https://bitbucket.org/Jay_Ren/fashion_recommendation_tkde2018_code_dataset/src)
 - An End-to-End Attention-Based Neural Model for Complementary Clothing Matching [TMM 2020] [[__PDF__]](https://dl.acm.org/doi/abs/10.1145/3368071) [[__code__]](https://github.com/coderepositary/EAN)
 - Hierarchical Fashion Graph Network for Personalised Outfit Recommendation [SIGIR 2020] [[__PDF__]](https://arxiv.org/pdf/2005.12566) [[__code__]](https://github.com/xcppy/hierarchical_fashion_graph_network)
 - FashionBERT Text and Image Matching with Adaptive Loss for Cross-modal Retrieval [SIGIR 2020] [[__PDF__]](https://arxiv.org/abs/2005.09801) [[__code__]](https://github.com/search-opensource-space/alibaba_fashionbert)
+- Explainable Outfit Recommendation with Joint Outfit Matching and Comment Generation [TKDE 2020] [[__PDF__]](https://arxiv.org/abs/1806.08977) [[__code__]](https://bitbucket.org/Jay_Ren/fashion_recommendation_tkde2018_code_dataset/src)
 
 ## Explainable Recommendation
 
@@ -70,6 +73,7 @@
 - Jointly Learning Explainable Rules for Recommendation with Knowledge Graph [WWW 2019] [[__PDF__]](https://arxiv.org/abs/1903.03714) [[__code__]](https://github.com/THUIR/RuleRec)
 - Explainable Knowledge Graph-based Recommendation via Deep Reinforcement Learning [Arxiv 2019] [[__PDF__]](https://arxiv.org/abs/1906.09506)
 - Fairness-Aware Explainable Recommendation over Knowledge Graphs [SIGIR 2020] [[__PDF__]](https://arxiv.org/abs/2006.02046) [[__code__]](https://github.com/zuohuif/FairKG4Rec)
+- Measuring Recommendation Explanation Quality: The Conflicting Goals of Explanations [SIGIR 2020] [[__PDF__]](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/4634449570caa1416f4729827e371308ff6d26f2.pdf)
 - Dual Learning for Explainable Recommendation: Towards Unifying User Preference Prediction and Review Generation [WWW 2020] [[__PDF__]](https://dl.acm.org/doi/abs/10.1145/3366423.3380164)
 - Explainable Recommendation: A Survey and New Perspectives [Foundations and Trends in Information Retrieval 2020] [[__PDF__]](https://arxiv.org/abs/1804.11192)
 
@@ -79,8 +83,12 @@
 - Towards Conversational Search and Recommendation: System Ask, User Respond [CIKM 2018] [[__PDF__]](https://dl.acm.org/doi/abs/10.1145/3269206.3271776) [[__code__]](https://github.com/evison/Conversational)
 - Towards Deep Conversational Recommendations [NIPS 2018] [[__PDF__]](https://arxiv.org/abs/1812.07617) 
 - Conversational Recommender System [SIGIR 2018] [[__PDF__]](https://arxiv.org/abs/1806.03277)
+- Towards Knowledge-Based Recommender Dialog System [EMNLP 2019] [[__PDF__]](https://arxiv.org/abs/1908.05391) [[__code__]](https://github.com/THUDM/KBRD)
 - Estimation-Action-Reflection Towards Deep Interaction Between Conversational and Recommender Systems [WSDM 2020] [[__PDF__]](https://arxiv.org/abs/2002.09102) [[__code__]](https://yisong.me/publications/EAR.zip)
 - Towards Conversational Recommendation over Multi-Type Dialogs [ACL 2020] [[__PDF__]](https://arxiv.org/abs/2005.03954)
+- Neural Interactive Collaborative Filtering [SIGIR 2020] [[__PDF__]](https://arxiv.org/abs/2007.02095) [[__code__]](https://github.com/zoulixin93/NICF)
+- Towards Question-based Recommender Systems [SIGIR 2020] [[__PDF__]](https://arxiv.org/abs/2005.14255) [[__code__]](https://github.com/JieZouIR/Qrec)
+- Interactive Recommender System via Knowledge Graph-enhanced Reinforcement Learning [SIGIR 2020] [[__PDF__]](https://arxiv.org/abs/2006.10389) [[__code__]]()
 - Seamlessly Unifying Attributes and Items: Conversational Recommendation for Cold-Start Users [Arxiv 2020] [[__PDF__]](https://arxiv.org/abs/2005.12979)
 - A Survey on Conversational Recommender Systems [Arxiv 2020] [[__PDF__]](https://arxiv.org/abs/2004.00646)
 
@@ -91,6 +99,7 @@
 - Sequential Scenario-Specific Meta Learner for Online Recommendation [KDD 2019] [[__PDF__]](https://arxiv.org/abs/1906.00391) [[__code__]](https://github.com/THUDM/ScenarioMeta)
 - MeLU: Meta-Learned User Preference Estimator for Cold-Start Recommendation [KDD 2019] [[__PDF__]](https://arxiv.org/abs/1908.00413) [[__code__]](https://github.com/hoyeoplee/MeLU)
 - How to Retrain Recommender System? A Sequential Meta-Learning Method [SIGIR 2020] [[__PDF__]](https://arxiv.org/abs/2005.13258) [[__code__]](https://github.com/zyang1580/SML)
+- MetaSelector: Meta-Learning for Recommendation with User-Level Adaptive Model Selection [WWW 2020] [[__PDF__]](https://arxiv.org/abs/2001.10378)
 - Meta Matrix Factorization for Federated Rating Predictions [SIGIR 2020] [[__PDF__]](https://arxiv.org/abs/1910.10086) [[__code__]](https://bitbucket.org/HeavenDog/metamf/src/master/)
 
 ## Knowledge Graph-based Recommendation
@@ -99,6 +108,8 @@
 - DKN: Deep Knowledge-Aware Network for News Recommendation [WWW 2018] [[__PDF__]](https://arxiv.org/pdf/1801.08284) [[__code__]](https://github.com/hwwang55/DKN)
 - Knowledge Graph Convolutional Networks for Recommender Systems [WWW 2019] [[__PDF__]](https://arxiv.org/pdf/1904.12575) [[__code__]](https://github.com/hwwang55/KGCN)
 - KGAT: Knowledge Graph Attention Network for Recommendation [KDD 2019] [[__PDF__]](https://arxiv.org/pdf/1905.07854) [[__code__]](https://github.com/xiangwang1223/knowledge_graph_attention_network)
+- Jointly Non-Sampling Learning for Knowledge Graph Enhanced Recommendation [SIGIR 2020] [[__PDF__]](https://chenchongthu.github.io/files/SIGIR_JNSKR.pdf) [[__code__]](https://github.com/chenchongthu/JNSKR)
+- Leveraging Demonstrations for Reinforcement Recommendation Reasoning over Knowledge Graphs [SIGIR 2020] [[__PDF__]](https://www.microsoft.com/en-us/research/uploads/prod/2020/05/SIGIR2020_ADAC_paper.pdf)
 
 ## Collaborative Filtering Recommendation
 
@@ -114,3 +125,5 @@
 - Graph neural networks for social recommendation [WWW 2019] [[__PDF__]](https://arxiv.org/pdf/1902.07243) [[__code__]](https://github.com/wenqifan03/GraphRec-WWW19)
 - Deep Learning Based Recommender System: A Survey and New Perspectives [ACM Computing Surveys 2019] [[__PDF__]](https://arxiv.org/abs/1707.07435) 
 - Efficient Heterogeneous Collaborative Filtering without Negative Sampling for Recommendation [AAAI 2020] [[__PDF__]](http://yongfeng.me/attach/chen-aaai2020) [[__code__]](https://github.com/chenchongthu/EHCF)
+- Disentangled Graph Collaborative Filtering [SIGIR 2020] [[__PDF__]](http://staff.ustc.edu.cn/~hexn/papers/sigir20-DGCF.pdf) [[__code__]](https://github.com/xiangwang1223/disentangled_graph_collaborative_filtering)
+- LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation [SIGIR 2020] [[__PDF__]](https://arxiv.org/abs/2002.02126) [[__code__]](https://github.com/gusye1234/LightGCN-PyTorch)
