@@ -35,7 +35,7 @@
 - CoNet: Collaborative Cross Networks for Cross-Domain Recommendation [CIKM 2018] [[__PDF__]](https://arxiv.org/abs/1804.06769)
 - A Deep Framework for Cross-Domain and Cross-System Recommendations [IJCAI 2018] [[__PDF__]](https://www.ijcai.org/Proceedings/2018/0516.pdf)
 - Domain-to-Domain Translation Model for Recommender System [Arxiv 2018] [[__PDF__]](https://arxiv.org/abs/1812.06229)
-- Cross-Domain Recommendation via Preference Propagation GraphNet [CIKM 2019] [[__PDF__]](https://dl.acm.org/doi/abs/10.1145/3357384.3358166) [[__code__]][https://github.com/AkiraZC/PPGN]
+- Cross-Domain Recommendation via Preference Propagation GraphNet [CIKM 2019] [[__PDF__]](https://dl.acm.org/doi/abs/10.1145/3357384.3358166) [[__code__]](https://github.com/AkiraZC/PPGN)
 - Semi-Supervised Learning for Cross-Domain Recommendation to Cold-Start Users [CIKM 2019] [[__PDF__]](https://dl.acm.org/doi/abs/10.1145/3357384.3357914)
 - DTCDR A Framework for Dual-Target Cross-Domain Recommendation [CIKM 2019] [[__PDF__]](https://dl.acm.org/doi/abs/10.1145/3357384.3357992)
 - DARec: Deep Domain Adaptation for Cross-Domain Recommendation via Transferring Rating Patterns [IJCAI 2019] [[__PDF__]](https://arxiv.org/abs/1905.10760) 
