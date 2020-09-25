@@ -20,6 +20,7 @@
 - Empirical Analysis of Session-Based Recommendation Algorithms [Arxiv 2019] [[__PDF__]](https://arxiv.org/pdf/1910.12781)
 - Deep Learning for Sequential Recommendation: Algorithms, Influential Factors, and Evaluations [Arxiv 2019] [[__PDF__]](https://arxiv.org/abs/1905.01997)
 - $S^3$-Rec: Self-Supervised Learning for Sequential Recommendation with Mutual Information Maximization [CIKM 2020] [[__PDF__]](https://arxiv.org/abs/2008.07873) [[__code__]](https://github.com/aHuiWang/CIKM2020-S3Rec)
+- SSE-PT: Sequential Recommendation Via Personalized Transformer [RecSys 2020] [[__PDF__]](https://dl.acm.org/doi/pdf/10.1145/3383313.3412258) [[__code__]](https://github.com/SSE-PT/SSE-PT)
 - Sequential Recommendation with Self-Attentive Multi-Adversarial Network [SIGIR 2020] [[__PDF__]](https://arxiv.org/abs/2005.10602)
 - KERL: A Knowledge-Guided Reinforcement Learning Model for Sequential Recommendation [SIGIR 2020] [[__PDF__]](https://github.com/fanyubupt/KERL) [[__code__]](https://github.com/fanyubupt/KERL)
 - Next-item Recommendation with Sequential Hypergraphs [SIGIR 2020] [[__PDF__]](http://people.tamu.edu/~jwang713/pubs/HyperRec-sigir2020.pdf) [[__code__]](https://github.com/wangjlgz/HyperRec)
@@ -72,6 +73,7 @@
 - A Capsule Network for Recommendation and Explaining What You Like and Dislike [SIGIR 2019] [[__PDF__]](https://arxiv.org/pdf/1907.00687) [[__code__]](https://github.com/WHUIR/CARP)
 - Jointly Learning Explainable Rules for Recommendation with Knowledge Graph [WWW 2019] [[__PDF__]](https://arxiv.org/abs/1903.03714) [[__code__]](https://github.com/THUIR/RuleRec)
 - Explainable Knowledge Graph-based Recommendation via Deep Reinforcement Learning [Arxiv 2019] [[__PDF__]](https://arxiv.org/abs/1906.09506)
+- Explainable Recommender Systems via Resolving Learning Representations [CIKM 2020] [[__PDF__]](https://arxiv.org/abs/2008.09316)
 - Fairness-Aware Explainable Recommendation over Knowledge Graphs [SIGIR 2020] [[__PDF__]](https://arxiv.org/abs/2006.02046) [[__code__]](https://github.com/zuohuif/FairKG4Rec)
 - Measuring Recommendation Explanation Quality: The Conflicting Goals of Explanations [SIGIR 2020] [[__PDF__]](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/4634449570caa1416f4729827e371308ff6d26f2.pdf)
 - Dual Learning for Explainable Recommendation: Towards Unifying User Preference Prediction and Review Generation [WWW 2020] [[__PDF__]](https://dl.acm.org/doi/abs/10.1145/3366423.3380164)
@@ -85,6 +87,7 @@
 - Conversational Recommender System [SIGIR 2018] [[__PDF__]](https://arxiv.org/abs/1806.03277)
 - Towards Knowledge-Based Recommender Dialog System [EMNLP 2019] [[__PDF__]](https://arxiv.org/abs/1908.05391) [[__code__]](https://github.com/THUDM/KBRD)
 - Estimation-Action-Reflection Towards Deep Interaction Between Conversational and Recommender Systems [WSDM 2020] [[__PDF__]](https://arxiv.org/abs/2002.09102) [[__code__]](https://yisong.me/publications/EAR.zip)
+- What does BERT know about books, movies and music? Probing BERT for Conversational Recommendation [RecSys 2020] [[__PDF__]](https://arxiv.org/abs/2007.15356)
 - Towards Conversational Recommendation over Multi-Type Dialogs [ACL 2020] [[__PDF__]](https://arxiv.org/abs/2005.03954)
 - Neural Interactive Collaborative Filtering [SIGIR 2020] [[__PDF__]](https://arxiv.org/abs/2007.02095) [[__code__]](https://github.com/zoulixin93/NICF)
 - Towards Question-based Recommender Systems [SIGIR 2020] [[__PDF__]](https://arxiv.org/abs/2005.14255) [[__code__]](https://github.com/JieZouIR/Qrec)
@@ -108,6 +111,7 @@
 - DKN: Deep Knowledge-Aware Network for News Recommendation [WWW 2018] [[__PDF__]](https://arxiv.org/pdf/1801.08284) [[__code__]](https://github.com/hwwang55/DKN)
 - Knowledge Graph Convolutional Networks for Recommender Systems [WWW 2019] [[__PDF__]](https://arxiv.org/pdf/1904.12575) [[__code__]](https://github.com/hwwang55/KGCN)
 - KGAT: Knowledge Graph Attention Network for Recommendation [KDD 2019] [[__PDF__]](https://arxiv.org/pdf/1905.07854) [[__code__]](https://github.com/xiangwang1223/knowledge_graph_attention_network)
+- Multi-modal Knowledge Graphs for Recommender Systems [CIKM 2020] [[__PDF__]](https://zheng-kai.com/paper/cikm_2020_sun.pdf) 
 - Jointly Non-Sampling Learning for Knowledge Graph Enhanced Recommendation [SIGIR 2020] [[__PDF__]](https://chenchongthu.github.io/files/SIGIR_JNSKR.pdf) [[__code__]](https://github.com/chenchongthu/JNSKR)
 - Leveraging Demonstrations for Reinforcement Recommendation Reasoning over Knowledge Graphs [SIGIR 2020] [[__PDF__]](https://www.microsoft.com/en-us/research/uploads/prod/2020/05/SIGIR2020_ADAC_paper.pdf)
 
@@ -126,4 +130,9 @@
 - Deep Learning Based Recommender System: A Survey and New Perspectives [ACM Computing Surveys 2019] [[__PDF__]](https://arxiv.org/abs/1707.07435) 
 - Efficient Heterogeneous Collaborative Filtering without Negative Sampling for Recommendation [AAAI 2020] [[__PDF__]](http://yongfeng.me/attach/chen-aaai2020) [[__code__]](https://github.com/chenchongthu/EHCF)
 - Disentangled Graph Collaborative Filtering [SIGIR 2020] [[__PDF__]](http://staff.ustc.edu.cn/~hexn/papers/sigir20-DGCF.pdf) [[__code__]](https://github.com/xiangwang1223/disentangled_graph_collaborative_filtering)
+
+## Others
+
+- Progressive Layered Extraction (PLE): A Novel Multi-Task Learning (MTL) Model for Personalized Recommendations [RecSys 2020] [[__PDF__]](https://dl.acm.org/doi/pdf/10.1145/3383313.3412236)
 - LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation [SIGIR 2020] [[__PDF__]](https://arxiv.org/abs/2002.02126) [[__code__]](https://github.com/gusye1234/LightGCN-PyTorch)
+
